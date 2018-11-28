@@ -1,0 +1,142 @@
+---
+title: "Open Science Mini-session"
+author: "Thomas Pollet (@tvpollet), Northumbria University"
+date: "`r format(Sys.Date())` | [disclaimer](http://tvpollet.github.io/disclaimer)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Open Science
+
+* Following troubling reports, especially in social psychology.
+
+* Umbrella term.
+
+* Reform -- Center for Open Science.
+
+* Platform.
+
+```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("cos_logo.png") 
+```
+
+---
+## My experience.
+
+Started using it for MSc. projects. Especially for replication projects. One of them published [here](https://www.sciencedirect.com/science/article/pii/S0141938218300349).
+
+--
+
+Students engage with it.
+
+--
+
+Response is overwhelmingly positive.
+
+---
+## Why bother?
+
+* More and more reviewers ask for this. (Journals now have registered reports)
+
+* More and more job adverts ask for this.
+
+* Good practice.
+
+* Marketing tool for showcasing students' work! 
+
+* OSF framework is tool for project management and version control.
+
+* [Preprints](https://psyarxiv.com/).
+
+---
+## A quick tour.
+
+**Thomas shows the [OSF](http://osf.io)**
+
+```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif")
+```
+
+---
+## Preregistration.
+
+* Open-ended registration. - Just write what you want!
+
+* Registered report.
+
+* aspredicted.org (7 questions)
+
+* OSF standard (3 questions!)
+
+* Some specific standard forms for _replication_ studies.
+
+--> the emphasis is on _pre_-registration. Before you collect data, you should make key decisions.
+
+---
+## Things to consider.
+
+Some forms will ask you this upfront:
+
+* How many conditions (_a priori_)?
+
+* When will you stop data collection?
+
+--> What if you change your mind
+
+You can put a note why you diverged or set up a new preregistration.
+
+```{r, out.width = "300px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("destro.gif")
+```
+
+---
+## What about qualitative data?
+
+* Not unfeasible... . The basic premise of setting out what you are going to do, should not be hard.
+
+* Likely in the future open science practices. Check [this](http://blog.ukdataservice.ac.uk/show-me-the-data/)!
+
+* Template available [here](https://osf.io/j7ghv/wiki/home/).
+
+---
+## Criticism: Stifling of creativity?
+
+Not necessarily: just differentiation between confirmatory and exploratory!
+
+```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/13AVkVyKezbmBq/giphy.gif")
+```
+
+
+---
+##Further reading.
+
+* [Making replications mainstream](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/making-replication-mainstream/2E3D8805BF34927A76B963C7BBE36AC7)
+
+* Annotated reading list: [https://psyarxiv.com/cfzyx](https://psyarxiv.com/cfzyx)
+
+```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/oFPiPgqwof4Pe/giphy.gif")
+```
+
+---
+##Any Questions?
+
+[http://tvpollet.github.io](http://tvpollet.github.io)
+
+Twitter: @tvpollet
+
+```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/3ohzdRoOp1FUYbtGDu/giphy.gif")
+```
+
