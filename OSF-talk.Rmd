@@ -89,7 +89,7 @@ knitr::include_graphics("https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif")
 
 * Registered report.
 
-* aspredicted.org (7 questions)
+* aspredicted.org (9 questions)
 
 * OSF standard (3 questions!)
 
@@ -98,6 +98,17 @@ knitr::include_graphics("https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif")
 --> the emphasis is on _pre_-registration. Before you collect data, you should make key decisions.
 
 --> Not that much work, per se, as key information is also what you should have in your ethics application.
+
+---
+## Aspredicted.org
+
+Let's look at a completed example from the [aspredicted website](http://web.archive.org/web/20160407104112/https://aspredicted.org/nfj4s.pdf).
+
+
+
+```{r, out.width = "500px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/26vUAAwkzAMnBj9x6/giphy.gif")
+```
 
 ---
 ## Things to consider.
