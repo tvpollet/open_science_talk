@@ -33,7 +33,12 @@ knitr::include_graphics("cos_logo.png")
 ---
 ## My experience.
 
-Started using it for MSc. projects. Especially for replication projects. One of them published [here](https://www.sciencedirect.com/science/article/pii/S0141938218300349).
+Started using it for MSc. projects. Especially for replication projects. One of them published
+<a href="https://www.sciencedirect.com/science/article/pii/S0141938218300349" target="_blank">here</a>.
+
+--
+
+Response is overwhelmingly positive.
 
 --
 
@@ -41,7 +46,17 @@ Students engage with it.
 
 --
 
-Response is overwhelmingly positive.
+Goal setting. 
+
+--
+
+Product for student to market themselves with.
+
+--
+
+```{r, out.width = "300px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/UmO1IuCwW14k/giphy.gif") 
+```
 
 ---
 ## Why bother?
@@ -52,16 +67,16 @@ Response is overwhelmingly positive.
 
 * Good practice.
 
-* Marketing tool for showcasing students' work! 
-
 * OSF framework is tool for project management and version control.
+
+* Marketing tool for showcasing students' work! 
 
 * [Preprints](https://psyarxiv.com/).
 
 ---
 ## A quick tour.
 
-**Thomas shows the [OSF](http://osf.io)**
+**Thomas shows the <a href="https://osf.io" target="_blank">OSF</a>.  **
 
 ```{r, out.width = "600px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif")
@@ -82,6 +97,8 @@ knitr::include_graphics("https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif")
 
 --> the emphasis is on _pre_-registration. Before you collect data, you should make key decisions.
 
+--> Not that much work, per se, as key information is also what you should have in your ethics application.
+
 ---
 ## Things to consider.
 
@@ -91,7 +108,7 @@ Some forms will ask you this upfront:
 
 * When will you stop data collection?
 
---> What if you change your mind
+--> What if you change your mind?
 
 You can put a note why you diverged or set up a new preregistration.
 
@@ -102,7 +119,9 @@ knitr::include_graphics("destro.gif")
 ---
 ## What about qualitative data?
 
-* Not unfeasible... . The basic premise of setting out what you are going to do, should not be hard.
+* Feasible... ?! The basic premise of setting out what you are going to do, should not be hard.
+
+* Can be relatively open-ended. To a large degree your approved Ethics protocol already has most info.?
 
 * Likely in the future open science practices. Check [this](http://blog.ukdataservice.ac.uk/show-me-the-data/)!
 
